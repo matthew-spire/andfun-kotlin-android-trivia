@@ -6,7 +6,7 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.TextView
+// import android.widget.TextView
 import androidx.databinding.DataBindingUtil
 import com.example.android.navigation.databinding.FragmentTitleBinding
 
